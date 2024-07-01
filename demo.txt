@@ -135,6 +135,7 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 五星体育,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
+山东体育,http://fangke.blueswords.com:9901/tsfile/live/0111_1.m3u8
 广东体育,http://113.98.122.166:9901/tsfile/live/1057_1.m3u8?key=txiptv
 劲爆体育,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
 风云足球,http://biaozhun114.com/tv/v6hubei.php?id=20
