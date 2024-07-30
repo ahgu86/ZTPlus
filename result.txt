@@ -381,15 +381,15 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 河北卫视,http://171.108.239.80:8181/tsfile/live/1086_1.m3u8?key=txiptv&playlive=0&authid=0
 河北卫视,http://171.108.239.98:8181/tsfile/live/1086_1.m3u8?key=txiptv&playlive=0&authid=0
 山西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
-山西卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000318/index.m3u8?IAS
+山西卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000021220/1.m3u8
 山西卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001070/index.m3u8
+山西卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000318/index.m3u8?IAS
 山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/5sqnR0W.m3u8
 山西卫视,http://nnth.7766.org:85//tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://171.108.239.79:8181/tsfile/live/1076_1.m3u8?key=txiptv&playlive=0&authid=0
 山西卫视,http://171.108.239.80:8181/tsfile/live/1076_1.m3u8?key=txiptv&playlive=0&authid=0
 山西卫视,http://171.108.239.115:8181/tsfile/live/1076_1.m3u8?key=txiptv&playlive=0&authid=0
 山西卫视,http://220.164.192.48:50085/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
-山西卫视,http://221.213.92.55:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 重庆卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 重庆卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001129/index.m3u8
@@ -421,15 +421,15 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 广西卫视,http://59.48.75.130:3052/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://171.108.239.79:8181/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
-陕西卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000313/index.m3u8?IAS
+陕西卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000007495/1.m3u8
 陕西卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001067/index.m3u8
+陕西卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000313/index.m3u8?IAS
 陕西卫视,http://stream.snrtv.com/sxbc-star-ckBCY6.m3u8
 陕西卫视,http://nnth.7766.org:85//tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://171.108.239.80:8181/tsfile/live/1070_1.m3u8?key=txiptv&playlive=0&authid=0
 陕西卫视,http://171.108.239.115:8181/tsfile/live/1070_1.m3u8?key=txiptv&playlive=0&authid=0
 陕西卫视,http://171.108.239.79:8181/tsfile/live/1070_1.m3u8?key=txiptv&playlive=0&authid=0
 陕西卫视,http://220.164.192.48:50085/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
-陕西卫视,http://221.213.92.55:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=0&authid=0
 甘肃卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 甘肃卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 甘肃卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001298/index.m3u8
@@ -476,8 +476,9 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 新疆卫视,http://171.108.239.98:8181/tsfile/live/1073_1.m3u8?key=txiptv&playlive=0&authid=0
 新疆卫视,http://220.164.192.48:50085/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0
 新疆卫视,http://220.164.192.48:50085/tsfile/live/0111_1.m3u8?key=txiptv&playlive=0&authid=0
-西藏卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000317/index.m3u8?IAS
+西藏卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/6603041244077933770/1.m3u8
 西藏卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001072/index.m3u8
+西藏卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000317/index.m3u8?IAS
 西藏卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000317/index.m3u8?IAS
 西藏卫视,https://tv.vtibet.cn/live/vuXz3cg3TmRUYg.m3u8?secret=ae96e9569da6f90946c83f3729ec5fbc&time=668cd3b4
 西藏卫视,http://171.108.239.79:8181/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -526,11 +527,13 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 河南卫视,http://171.108.239.98:8181/tsfile/live/1071_1.m3u8?key=txiptv&playlive=0&authid=0
 河南卫视,http://220.164.192.48:50085/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?
-三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
+三沙卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
 三沙卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001185/index.m3u8
+三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 三沙卫视,https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=19c640ff1720506899
 厦门卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?fmmv6
 厦门卫视,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
+厦门卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266006/1.m3u8
 厦门卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?IAS
 厦门卫视,http://171.108.239.79:8181/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0
 厦门卫视,http://171.108.239.98:8181/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -538,7 +541,6 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 厦门卫视,http://171.108.239.115:8181/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0
 厦门卫视,http://220.164.192.48:50085/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
 厦门卫视,http://221.213.92.55:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=0&authid=0
-厦门卫视,http://59.48.75.130:3052/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0
 兵团卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 兵团卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 兵团卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001066/index.m3u8
@@ -631,6 +633,7 @@ CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 梨园,http://120.210.193.151:8006/120000001002/XMTliyuan/1.m3u8
 武术世界,http://120.210.193.151:8006/120000001002/XMTwushu/1.m3u8
 文物宝库,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ
+快乐垂钓,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8
 快乐垂钓,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001235/index.m3u8
 快乐垂钓,rtp://239.3.1.164:8001
 快乐垂钓,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729b6002c4/index.m3u8?m3u8_level=2
@@ -639,6 +642,7 @@ CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 武搏世界,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/SD-1500k-576P-bokesen/1.m3u8
 农业致富,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/nongyezf/1.m3u8
 潮妈辣婆,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+金色学堂,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8
 金色学堂,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001194/index.m3u8
 金色学堂,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000061/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000061&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 
