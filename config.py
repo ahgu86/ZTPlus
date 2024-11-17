@@ -7,7 +7,7 @@ response_time_weight = 0.5
 resolution_weight = 0.5
 
 # 每个频道直播源数量
-zb_urls_limit = 10
+zb_urls_limit = 29
 
 # 最大协程数
 max_concurrent_tasks = 10
